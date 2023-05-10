@@ -128,6 +128,10 @@ Sample guidance for non-STEMM content in general can be found in several places,
 
 (<https://bit.ly/A11yMaths>)
 
+[Making Accessible Documents Using LaTeX](https://bit.ly/maduLaTeX)
+
+(<https://bit.ly/maduLaTeX>)
+
 ### Data visualisations
 
 -   Provide visualisations of adequate resolution. Low resolution screenshots are not suitable;
@@ -142,7 +146,7 @@ Sample guidance for non-STEMM content in general can be found in several places,
 
 -   Use high contrasting colours for labelling and data;
 
--   The original data on which visualisations are based ~~is~~ should be available in an accessible format where possible;
+-   The original data on which visualisations are based should be available in an accessible format where possible;
 
 -   Consider the feasibility of providing tactile images;
 
@@ -169,6 +173,11 @@ Sample guidance for non-STEMM content in general can be found in several places,
 [Alternate Text for STEM (Science, Technology, Engineering and Maths) Example](https://bit.ly/AltTextExamples)
 
 (<https://bit.ly/AltTextExamples>)
+
+[Data visualization accessibility](https://bit.ly/datavisualizationaccessibility)
+
+(<https://bit.ly/datavisualizationaccessibility>)
+
 
 ### Tables
 
