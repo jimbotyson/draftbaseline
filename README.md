@@ -14,3 +14,7 @@ We ask that you acknowledge the original authors:
 An online version of this document is hosted at:
  
 http://bit.ly/stemmbaseline
+
+# Collaborate on GitHub
+
+The most useful way to collaborate on GitHub is to fork this repo give it a transparent name and edit its readme file. Usually you will not be making pull requests.
