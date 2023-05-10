@@ -19,4 +19,9 @@ http://bit.ly/stemmbaseline
 
 # Collaborate on GitHub
 
-The most useful way to collaborate on GitHub is to [fork this repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo) give it a transparent name and edit its readme file. A fork of a repo is copy that can be edited without affecting the original.  Often when a repo is forked, the changes made can later be **merged** backc in by make a **pull request** to the owner of the original, but in this case (usually) you will not be making pull requests.  To work this way you need a GitHub acccount to own the new fork and you need to know enough markdown to edit the file.
+The most useful way to collaborate on GitHub is to [fork this repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo) give it a transparent name and edit its readme file. A fork of a repo is copy that can be edited without affecting the original.  
+Often when a repo is forked, the changes made can later be **merged** backc in by making a **pull request** to the owner of the original, but in this case (usually) you will not be making pull requests.  
+
+To work this way you need a GitHub acccount to own the new fork and you need to know enough markdown to edit the file.
+
+Working this way means that we can see what forks (new versions) of the baseline have been created at anytime.
