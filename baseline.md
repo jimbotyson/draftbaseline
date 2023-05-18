@@ -96,11 +96,11 @@ Sample guidance for non-STEMM content in general can be found in several places,
 
 -   Where documents are provided in large format, formatting and cross-referencing consistency must be maintained;
 
--   Directions for accessing the content are available (and themselves in an accessible format);
+-   Directions for accessing the content should be available (and themselves in an accessible format);
 
--   Content can be converted to alternative formats that students can interact with and access as they need;
+-   Ensure that content can be converted to alternative formats that students can interact with and access as they need;
 
--   Content is provided in accessible print versions for learners who cannot access electronic versions.
+-   Ensure that content is provided in accessible print versions for learners who cannot access electronic versions.
 
 #### Resources
 
@@ -136,11 +136,11 @@ Sample guidance for non-STEMM content in general can be found in several places,
 
 -   Provide visualisations of adequate resolution. Low resolution screenshots are not suitable;
 
--   All visualisations include captions and where possible alternative text descriptions;
+-   All visualisations should include captions and where possible alternative text descriptions;
 
 -   The context and educational importance of the content should be clear using only the text or caption;
 
--   Colour is not used in visualisations as the only means of interpreting data;
+-   Colour should not used in visualisations as the only means of interpreting data;
 
 -   Be aware of the consequences of colour choice in visualisations. Consider colour combinations that affect colour blind users, for example red-green combinations;
 
@@ -197,7 +197,7 @@ Sample guidance for non-STEMM content in general can be found in several places,
 
 -   All data headings should appear on every page;
 
--   Headings and names of data items are distinguished from data values;
+-   Headings and names of data items should be distinguished from data values;
 
 -   There are no blank or merged cells. **Where data are missing this is shown**. Zero counts are shown as zero (and not left blank);
 
@@ -241,7 +241,7 @@ Sample guidance for non-STEMM content in general can be found in several places,
 
 -   Be aware of the consequences of colour choice in images. Consider colour combinations that affect colour blind users, for example red-green combinations;
 
--   In non-photographic illustration avoid contrasts that may be a problem for disabled viewers. Use high contrasting colours for labelling and data;
+-   In non-photographic illustration, avoid contrasts that may be a problem for disabled viewers. Use high contrasting colours for labelling and data;
 
 -   Provide the context and purpose of the image in the alternative text, if not already described in context in surrounding text;
 
