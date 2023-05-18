@@ -46,7 +46,7 @@ There are also some general considerations that apply:
 
     -   Who provides the knowledge required to implement standards.
 
--   Software may be accessible to different subsets of users, for example, screen reader users vs magnification users;
+-   Content may be accessible to different subsets of users, for example, screen reader users vs magnification users;
 
 -   Sometimes something perceived to be an accessibility issue is an issue with fluency with assistive technology and students should be provided with opportunities to familiarize themselves with technology;
 
