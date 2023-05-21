@@ -110,7 +110,7 @@ Sample guidance for non-STEMM content in general can be found in several places,
 
 [MathJax Demo](https://tinyurl.com/mathjaxdemo)
 
-(<https://tinyurl.com/mathjaxdemo>)
+\(<https://tinyurl.com/mathjaxdemo>\)
 
 [MathML Introduction](https://bit.ly/W3MathML)
 
