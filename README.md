@@ -9,9 +9,9 @@ You are free to use this document under terms identical to the MIT license (savi
 
 ## Collaborate on GitHub
 
-The most useful way to collaborate on GitHub is to [fork this repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo), give it a transparent name, and edit its readme file. A fork of a repo is copy that can be edited without affecting the original.  
+The most useful way to collaborate on GitHub is to [fork this repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo), give it a transparent name, and edit its readme file. A fork of a repo is copy that can be edited without affecting the original and does not sync with the original.  
 
-Often when a repo is forked, the changes made can later be **merged** backc in by making a **pull request** to the owner of the original, but in this case (usually) you will not be making pull requests.  
+Often when a repo is forked, the changes made can later be **merged** backc in by making a **pull request** to the owner of the original, but in this case (usually) you will not be making pull requests unless you wish to suggest changes to this draft.  
 
 To work this way you need a GitHub acccount to own the new fork and you need to know enough markdown to edit the file.
 
