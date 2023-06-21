@@ -3,6 +3,8 @@ title: Baseline standards for accessible educational content and practice for sc
   technology, engineering, mathematics, and medicine (STEMM) education
 author: Tara Chattaway<sup>1</sup>, Darren Paskell<sup>1</sup>, George Rhodes<sup>2</sup>,
   Jim Tyson<sup>3</sup>, Ben Watson<sup>3</sup>
+**October 2022**^[Thomas Pocklington Trust<sup>1</sup>, University of Westminster<sup>2</sup>, University College London (UCL)<sup>3</sup>]
+
 date: "2023-04-26"
 output:
   pdf_document: default
@@ -10,7 +12,6 @@ output:
   word_document: default
 ---
 
-**October 2022**^[Thomas Pocklington Trust<sup>1</sup>, University of Westminster<sup>2</sup>, University College London (UCL)<sup>3</sup>]
 
 ## Introduction
 
